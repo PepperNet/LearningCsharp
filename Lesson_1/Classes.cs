@@ -1,5 +1,3 @@
-using System;
-
 namespace Lesson_1
 {
     // Базовий клас (демонстрація наслідування)
@@ -27,7 +25,7 @@ namespace Lesson_1
     // Наслідування
     public class Circle : Shape
     {
-        // Типи значень (Value Types)
+        // Value Types
         private double radius;
         
         public double Radius
@@ -42,7 +40,7 @@ namespace Lesson_1
             Radius = radius;
         }
         
-        // Перевизначення методу (поліморфізм)
+        // Перевизначення методу - method override (поліморфізм)
         public override double CalculateArea()
         {
             return Math.PI * Radius * Radius;

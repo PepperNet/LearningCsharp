@@ -1,0 +1,15 @@
+/Users/pepper/Documents/LearningCsharp/Lesson_2/bin/Debug/net8.0/Lesson_2
+/Users/pepper/Documents/LearningCsharp/Lesson_2/bin/Debug/net8.0/Lesson_2.deps.json
+/Users/pepper/Documents/LearningCsharp/Lesson_2/bin/Debug/net8.0/Lesson_2.runtimeconfig.json
+/Users/pepper/Documents/LearningCsharp/Lesson_2/bin/Debug/net8.0/Lesson_2.dll
+/Users/pepper/Documents/LearningCsharp/Lesson_2/bin/Debug/net8.0/Lesson_2.pdb
+/Users/pepper/Documents/LearningCsharp/Lesson_2/obj/Debug/net8.0/Lesson_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pepper/Documents/LearningCsharp/Lesson_2/obj/Debug/net8.0/Lesson_2.AssemblyInfoInputs.cache
+/Users/pepper/Documents/LearningCsharp/Lesson_2/obj/Debug/net8.0/Lesson_2.AssemblyInfo.cs
+/Users/pepper/Documents/LearningCsharp/Lesson_2/obj/Debug/net8.0/Lesson_2.csproj.CoreCompileInputs.cache
+/Users/pepper/Documents/LearningCsharp/Lesson_2/obj/Debug/net8.0/Lesson_2.sourcelink.json
+/Users/pepper/Documents/LearningCsharp/Lesson_2/obj/Debug/net8.0/Lesson_2.dll
+/Users/pepper/Documents/LearningCsharp/Lesson_2/obj/Debug/net8.0/refint/Lesson_2.dll
+/Users/pepper/Documents/LearningCsharp/Lesson_2/obj/Debug/net8.0/Lesson_2.pdb
+/Users/pepper/Documents/LearningCsharp/Lesson_2/obj/Debug/net8.0/Lesson_2.genruntimeconfig.cache
+/Users/pepper/Documents/LearningCsharp/Lesson_2/obj/Debug/net8.0/ref/Lesson_2.dll
